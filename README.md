@@ -4,14 +4,6 @@
 
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
-Consiste en hacer 2 simples tareas:
-- [ ] **Editar este archivo completando tu nombre**. Para eso basta con 
-  - tocar el lapicito de arriba a la derecha de este archivo ![Selection_201](https://user-images.githubusercontent.com/4098184/89341982-8096af80-d678-11ea-9248-e70dab4b73f7.png)
-  - editar el archivo
-  - agregar un nombre y descripción al _commit_ (cambio) que vamos a subir. Este paso es opcional pero recomendable.
-  - darle al botón de **Commit** para subir los cambios al repositorio.
-
-
-- [ ] **Subir una foto tuya**. Para esto pueden usar la opción para subir archivos que es bastante intuitiva.![Menu_202](https://user-images.githubusercontent.com/4098184/89341973-7e345580-d678-11ea-9a96-7c117034f81a.png)
+![Menu_202](https://lh3.googleusercontent.com/HbNo_VzF4x7bDMpFn3-BCAD3u_upkSPCk8aNW-4b5PO0HFXt2xNQg5kblDvHn9lnu8LjKOpgfaxM2KPGjh0Cjr9QMiHD3ujznGgddiGqBpE61hU5Ai91TuwVClQCOm-buqy76juLTQXDEs8tHxcNHZYIt11OB62NpVPOKhoNLO3matT3CyK8lIiMKCac9xLVE9Z7VTypiwHazFaF5TjNKdy3Uf1sp0kHz4qgy0EWs8er_Wnt5woiquJj7FWIWziYPpbJKxMPKHtAyQA4E9-fn0KeeHVk3NlBBayhaficZ2-wtczsBoFZ-v99ORnvL9ICw1VLY8XDjTZ0SSWx9uE7LD3cuThxqeVUnTZtzfrEEA2UE3gDJg7fMBIIB6KJfTW0wdYEZFRiHuTkyMd-0r278NswNyMnj70TLh37Q34qNCD1bBh6xNuPXrG9Ja5Pvsz58-9tfWpkAcIBF5yBr78N0mYcb1SIPlnoLcl8E9GAJjjE9L464AeCgHKxyPkPTsmWJIna7_9e8qzuM92FvHQla1A2BFf09o6LpuP9yriY6-LViFoP0Qk2Q3ceesSVodXb9KTcodR1xk_SPLAg_WmRaz_N_TK94Im_pXK5bJjrg32PacLz5D2NYF1xS16eBqpYuFtAYewK0oMX0kCtbgbFMPlvjtyZfPmQl5XIBk9SpPp3P9pXvtoFlvzLeenZsQ=w703-h937-no?authuser=0)
 
 Una vez seleccionado el archivo hay que crear el _commit_ para subir los cambios, similar al paso anterior.
